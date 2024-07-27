@@ -2,8 +2,8 @@
 The Monty Hall problem is a brain teaser, in the form of a probability puzzle, based nominally on the American television game show Let's Make a Deal and named after its original host, Monty Hall.
 The original statement of the problem goes as thus:
 
-Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the
-doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
+*Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the
+doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?*
 
 Although intuition would suggest that switching the door would have no effect on the probablity of winning a car ( 1/2 probability of success either by switching or retaining), the truth is that
 switching the door would result in a 2/3 chance of success, while retaining the original door would only result in 1/3 chances of success.
