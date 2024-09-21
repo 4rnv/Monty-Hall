@@ -13,3 +13,5 @@ problem is a paradox of the veridical type, because the solution is so counterin
 
 In this python notebook you can specify the number of simulations as well as doors. For simulations with 3 doors, P(S) will be around 66%, for 5 doors around 80% and for 20 doors around 95%. Thus,
 the claim that switching doors is more likely to lead to positive outcomes is demonstrably proven.
+
+Web version available at https://huggingface.co/spaces/0xarnav/MontyHall.
